@@ -10,15 +10,19 @@ My academic background and interests and experience allow me to perform tasks su
 ## Skills
 [![Excel](https://img.shields.io/badge/Excel-1D6F42?style=for-the-badge&logo=microsoftexcel&logoColor=green&labelColor=101010)]()
 [![R](https://img.shields.io/badge/R-4479A1?style=for-the-badge&logo=R&logoColor=blue&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white&labelColor=101010)]()
+[![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=589632&labelColor=101010)]()
 
 
 ## Find me at
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Paredes-0077B5?style=social&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/danparbra)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=social&logo=kaggle&logoColor=blue&labelColor=101010)](https://www.kaggle.com/danparbra)
+
+## Contact me
+
+[![Email](https://img.shields.io/badge/Gmail-Personal_email-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:danparbra@gmail.com)
 <!--
 **danparbra/danparbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
