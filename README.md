@@ -22,7 +22,7 @@ My academic background and interests and experience allow me to perform tasks su
 
 ## Contact me
 
-[![Email](https://img.shields.io/badge/Gmail-Personal_email-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:danparbra@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Personal_email_(danparbra@gmail.com)-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:danparbra@gmail.com)
 <!--
 **danparbra/danparbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
