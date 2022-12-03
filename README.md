@@ -1,17 +1,13 @@
 # Hi there 👋 I'm David Paredes,
 
-### Economist and data analyst
+### Economist and data scientist
 
-I’m a recent majored economist with a solid theoretical background and a diverse quantitative and qualitative training in data analytics. My capacity for collaborative work, assertive communication and my motivation for continuous and autonomous learning allow me to take action, always looking for the best options for the company.
-
-My academic background and interests and experience allow me to perform tasks such as: support the recollection, preparation and processing of data for critical socioeconomic analysis; elaborate status reports and dashboards or research products of business performance; develop administrative activities in different organizational areas, such as Monitoring and Evaluation units or Business Analytics departments; analyze the markets and the macroeconomic and sectoral context of the company; manage incentive schemes or social responsibility activities; and support the design and development of cooperative productive projects and other forms of social intervention.
-
+Economist specialized in data science processes like data preparation, processing and analysis for Machine Learning/Deep Learning applications or for business intelligence workloads. Experience advising data-driven decisions with high-impact positive results in TI, energy and health sectors.
 
 ## Skills
-[![Excel](https://img.shields.io/badge/Excel-1D6F42?style=for-the-badge&logo=microsoftexcel&logoColor=green&labelColor=101010)]()
-[![R](https://img.shields.io/badge/R-4479A1?style=for-the-badge&logo=R&logoColor=blue&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Apache Spark](https://img.shields.io/badge/Apache_Spark-F55B14?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=101010)]()
 [![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=589632&labelColor=101010)]()
 
 
