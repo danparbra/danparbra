@@ -2,7 +2,7 @@
 
 ### Economist and data scientist
 
-Economist specialized in data science processes like data preparation, processing and analysis for Machine Learning/Deep Learning applications or for business intelligence workloads. Experience advising data-driven decisions with high-impact positive results in TI, energy and health sectors.
+Economist specialized in data science and machine learning engineering processes like data preparation, processing and analysis for Machine Learning/Deep Learning applications or for business intelligence workloads. Experience advising data-driven decisions with high-impact positive results in TI, energy and health sectors.
 
 ## Skills
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
