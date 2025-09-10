@@ -2,7 +2,8 @@
 
 ### Economist and data scientist
 
-Economist specialized in data science and machine learning engineering processes like data preparation, processing and analysis for Machine Learning/Deep Learning applications or for business intelligence workloads. Experience advising data-driven decisions with high-impact positive results in TI, energy and health sectors.
+Experienced Data Scientist and ML/AI Engineer with expertise in Machine Learning, Deep Learning, NLP, and Generative AI. Specialized in designing and deploying end-to-end big data and AI solutions spanning classical ML pipelines, Knowledge-Based Retrieval (RAG/Chatbots), and Intelligent Document Processing (IDP) systems, among others.
+Proven track record of delivering business impact across IT, energy, finance, and healthcare sectors. Strong collaborator with skills in problem-solving, strategic thinking, and leadership. Proficient in Python, SQL, R, Git, Hadoop, Spark, Excel/VBA, AWS, Azure, Databricks, and other technologies.
 
 ## Skills
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
@@ -14,7 +15,6 @@ Economist specialized in data science and machine learning engineering processes
 ## Find me at
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Paredes-0077B5?style=social&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/danparbra)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=social&logo=kaggle&logoColor=blue&labelColor=101010)](https://www.kaggle.com/danparbra)
 
 ## Contact me
 
