@@ -1,7 +1,5 @@
 # Hi there 👋 I'm David Paredes,
 
-### Economist and data scientist
-
 Experienced Data Scientist and ML/AI Engineer with expertise in Machine Learning, Deep Learning, NLP, and Generative AI. Specialized in designing and deploying end-to-end big data and AI solutions spanning classical ML pipelines, Knowledge-Based Retrieval (RAG/Chatbots), and Intelligent Document Processing (IDP) systems, among others.
 Proven track record of delivering business impact across IT, energy, finance, and healthcare sectors. Strong collaborator with skills in problem-solving, strategic thinking, and leadership. Proficient in Python, SQL, R, Git, Hadoop, Spark, AWS, GCP, Azure, Databricks, and other technologies.
 
@@ -18,7 +16,7 @@ Proven track record of delivering business impact across IT, energy, finance, an
 
 ## Contact me
 
-[![Email](https://img.shields.io/badge/Gmail-Personal_email_(danparbra@gmail.com)-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:danparbra@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Personal_email_(danparbra@gmail.com)-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:danparbra@protonmail.com)
 <!--
 **danparbra/danparbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
