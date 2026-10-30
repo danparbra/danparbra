@@ -13,7 +13,7 @@ Proven track record of delivering business impact across IT, energy, finance, an
 
 ## Find me at
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Paredes-0077B5?style=social&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/danparbra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Bravo-0077B5?style=social&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/danparbra)
 
 ## Contact me
 
