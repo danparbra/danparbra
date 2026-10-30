@@ -5,9 +5,10 @@ Proven track record of delivering business impact across IT, energy, finance, an
 
 ## Skills
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
 [![Apache Spark](https://img.shields.io/badge/Apache_Spark-F55B14?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=101010)]()
-[![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=589632&labelColor=101010)]()
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white&labelColor=101010)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)]()
 
 
 ## Find me at
