@@ -1,4 +1,4 @@
-# Hi there 👋 I'm David Paredes,
+# Hi there 👋 I'm David Bravo,
 
 Experienced Data Scientist and ML/AI Engineer with expertise in Machine Learning, Deep Learning, NLP, and Generative AI. Specialized in designing and deploying end-to-end big data and AI solutions spanning classical ML pipelines, Knowledge-Based Retrieval (RAG/Chatbots), and Intelligent Document Processing (IDP) systems, among others.
 Proven track record of delivering business impact across IT, energy, finance, and healthcare sectors. Strong collaborator with skills in problem-solving, strategic thinking, and leadership. Proficient in Python, SQL, R, Git, Hadoop, Spark, AWS, GCP, Azure, Databricks, and other technologies.
